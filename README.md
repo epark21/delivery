@@ -1,9 +1,9 @@
 # Individual Project 1
 Continuous Delivery of Flask Application on GCP Goals
 
-•	Create a Google App Engine app using GCP Cloud Shell environment
-•	Push source code to Github
-•	Configure Cloud Build to Deploy Changes on build
+- Create a Google App Engine app using GCP Cloud Shell environment
+- Push source code to Github
+- Configure Cloud Build to Deploy Changes on build
 
 1.	Create Gihbub repo
 
@@ -116,15 +116,15 @@ gcloud app logs tail -s default
  
 16.	Setup continuous deployment – make changes rapidly and deploy changes to production
 
-a.	Enable APIs
-b.	Grant App Engine access to Cloud service
+- Enable APIs
+- Grant App Engine access to Cloud service
 
 ![Image](../master/images/13.gif?raw=true) 
 ![Image](../master/images/14.gif?raw=true) 
   
 
 17.	Create cloudbuild.yaml file
-a.	Add some commands using a prior project
+- Add some commands using a prior project
 
 ![Image](../master/images/15.gif?raw=true)  
 
