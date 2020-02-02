@@ -59,8 +59,10 @@ python main.py
 ```
 ![Image](../master/images/7.gif?raw=true)  
 
+
 10.	Web preview
-![Image](../master/images/8.gif?raw=true)  
+
+![Image](../master/images/8.gif?raw=true) 
 
 11.	Update main.py
 ```
