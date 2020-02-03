@@ -1,4 +1,4 @@
-## Individual Project 1
+# Individual Project 1
 # Continuous Delivery of Flask Application on GCP 
 
 Goals
