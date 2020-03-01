@@ -6,7 +6,7 @@ Goals
 - Push source code to Github
 - Configure Cloud Build to Deploy Changes on build
 
-# 1.	Create Gihbub repo
+# 1.	Create Github repo
 
 ![Image](../master/images/1.gif?raw=true) 
 
